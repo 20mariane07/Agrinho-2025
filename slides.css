@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slides Campo e Cidade</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="slider-container">
+    <div class="slides" id="slides">
+      <div class="slide campo">
+        <h1>Vida no Campo 🌾</h1>
+        <p>O campo oferece tranquilidade, ar puro, paisagens verdes e um ritmo de vida mais calmo e conectado à natureza.</p>
+      </div>
+      <div class="slide cidade">
+        <h1>Vida na Cidade 🌆</h1>
+        <p>A cidade é vibrante, cheia de oportunidades, cultura, tecnologia e acesso a diversos serviços e entretenimento.</p>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <button onclick="mudarSlide(-1)">❮</button>
+      <button onclick="mudarSlide(1)">❯</button>
+    </div>
+  </div>
+
+  <script>
+    let indiceAtual = 0;
+    const slides = document.getElementById('slides');
+
+    function mudarSlide(direcao) {
+      indiceAtual += direcao;
+      if (indiceAtual < 0) indiceAtual = 1;
+      if (indiceAtual > 1) indiceAtual = 0;
+      slides.style.transform = `translateX(-${indiceAtual * 100}%)`;
+    }
+  </script>
+
+</body>
+</html>
