@@ -2655,7 +2655,7 @@ video {
 }
 
 body{
-  background-image: linear-gradient(#7fa1fa,#ffffff);
+  background-image: linear-gradient(#547ef0,#ffffff);
 }
 
 @media (min-width: 640px) {
