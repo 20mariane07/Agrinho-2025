@@ -16,18 +16,18 @@ O AgroMecânica é um site dedicado à comercialização de alimentos frescos, p
   - Valor do produto.
   - Um ícone de carrinho ao lado.
 
-3. Maquinários Agrícolas:
+#### 3. Maquinários Agrícolas:
 - Os maquinários serão organizados em duas cores distintas, abrangendo desde a preparação da terra até a colheita. Cada máquina terá:
   - Imagem correspondente.
   - Nome do equipamento.
   - Valor.
   - Ícone de carrinho ao lado.
 
-4. Rodapé do Site:
+#### 4. Rodapé do Site:
 - No rodapé, exibiremos a qualidade dos produtos adicionados ao carrinho, iniciando em 0 e aumentando conforme os produtos são incluídos.
 - Junto a isso, estará a indicação "Abrir meu carrinho" acompanhada do símbolo do carrinho.
 
-5. Funcionalidade do Carrinho:
+#### 5. Funcionalidade do Carrinho:
 - Ao clicar no ícone do carrinho ao lado de cada produto, aparecerá uma mensagem verde no canto esquerdo informando "Você adicionou no carrinho!".
 - Caso o cliente decida remover um produto ou diminuir a quantidade no modal do carrinho, basta clicar no botão "Remover". Após essa ação, uma mensagem em vermelho aparecerá, informando: "Você removeu do carrinho!".
 - O modal exibirá:
@@ -37,9 +37,9 @@ O AgroMecânica é um site dedicado à comercialização de alimentos frescos, p
   - Campo para digitar o endereço de entrega.
   - Botões: "Cancelar" (canto direito) e "Finalizar pedido" (canto esquerdo).
   
-6. Finalização do Pedido:
+#### 6. Finalização do Pedido:
 - Se o cliente tentar finalizar o pedido fora do horário de funcionamento, aparecerá uma mensagem vermelha: "Ops! A AgroMecânica está fechada!".
 - Caso contrário, se estiver dentro do horário, o pedido será enviado para meu WhatsApp como uma mensagem comum.
 
-Acessibilidade:
+### Acessibilidade:
 - O site é responsivo, permitindo acesso em qualquer dispositivo. Contudo, recomenda-se acessá-lo em um local onde o WhatsApp esteja instalado para garantir um envio eficaz dos pedidos.
