@@ -40,6 +40,6 @@ Estrutura do Site:
 6. Finalização do Pedido:
 - Se o cliente tentar finalizar o pedido fora do horário de funcionamento, aparecerá uma mensagem vermelha: "Ops! A AgroMecânica está fechada!".
 - Caso contrário, se estiver dentro do horário, o pedido será enviado para meu WhatsApp como uma mensagem comum.
-- 
+
 Acessibilidade:
 - O site é responsivo, permitindo acesso em qualquer dispositivo. Contudo, recomenda-se acessá-lo em um local onde o WhatsApp esteja instalado para garantir um envio eficaz dos pedidos.
