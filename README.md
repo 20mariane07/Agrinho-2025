@@ -1,6 +1,4 @@
-# Agrinho-2025
-
-Projeto AgroMecânica
+# Projeto AgroMecânica
 O AgroMecânica é um site dedicado à comercialização de alimentos frescos, produzidos diretamente do campo, e maquinários agrícolas de alta tecnologia, representando a cidade com opções que garantem melhor produtividade no campo.
 
 Estrutura do Site:
@@ -24,7 +22,7 @@ Estrutura do Site:
   - Nome do equipamento.
   - Valor.
   - Ícone de carrinho ao lado.
-  - 
+
 4. Rodapé do Site:
 - No rodapé, exibiremos a qualidade dos produtos adicionados ao carrinho, iniciando em 0 e aumentando conforme os produtos são incluídos.
 - Junto a isso, estará a indicação "Abrir meu carrinho" acompanhada do símbolo do carrinho.
