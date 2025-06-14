@@ -1,13 +1,13 @@
 # Projeto AgroMecânica
 O AgroMecânica é um site dedicado à comercialização de alimentos frescos, produzidos diretamente do campo, e maquinários agrícolas de alta tecnologia, representando a cidade com opções que garantem melhor produtividade no campo.
 
-Estrutura do Site:
-1. Apresentação Inicial:
+### Estrutura do Site:
+#### 1. Apresentação Inicial:
 - O site contará com uma apresentação inicial simples e atraente, com uma imagem de fundo do Alagado.
 - As informações a seguir estarão centralizadas sobre o plano de fundo: a logo da AgroMecânica no topo, seguida pelo nome da loja e, logo abaixo, o endereço.
 - Abaixo, ainda sobre o plano de fundo, haverá um botão que exibirá os dias da semana e os horários de funcionamento da loja. O botão ficará verde quando estiver dentro do horário de funcionamento e vermelho quando estiver fora.
 
-2. Exibição de Produtos:
+#### 2. Exibição de Produtos:
 - A seção seguinte apresentará nossas frutas, verduras e legumes. Cada produto terá:
   - Uma imagem atrativa.
   - Nome do produto.
