@@ -17,7 +17,7 @@ Estrutura do Site:
   - Um fato interessante sobre o produto.
   - Valor do produto.
   - Um ícone de carrinho ao lado.
-    
+
 3. Maquinários Agrícolas:
 - Os maquinários serão organizados em duas cores distintas, abrangendo desde a preparação da terra até a colheita. Cada máquina terá:
   - Imagem correspondente.
@@ -38,7 +38,7 @@ Estrutura do Site:
   - Valor total de cada item e o valor total da compra em reais.
   - Campo para digitar o endereço de entrega.
   - Botões: "Cancelar" (canto direito) e "Finalizar pedido" (canto esquerdo).
-  - 
+  
 6. Finalização do Pedido:
 - Se o cliente tentar finalizar o pedido fora do horário de funcionamento, aparecerá uma mensagem vermelha: "Ops! A AgroMecânica está fechada!".
 - Caso contrário, se estiver dentro do horário, o pedido será enviado para meu WhatsApp como uma mensagem comum.
